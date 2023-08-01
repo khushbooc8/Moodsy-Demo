@@ -4,7 +4,8 @@
 
 # Demo Video: 
 
-https://github.com/khushbooc8/Moodsy-Demo/assets/92592464/3ded5e3c-fee0-42f4-955b-8a46271095ed
+https://github.com/khushbooc8/Moodsy-Demo/assets/92592464/27b88ef4-1e60-4a9b-9f1e-c091e179202f
+
 
 - Music from Uppbeat: https://uppbeat.io/t/zoo/the-road-ahead, License code: 6CEFFJXNWQZ10QWV
 
