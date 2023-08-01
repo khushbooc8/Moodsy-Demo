@@ -1,9 +1,11 @@
 # Moodsy
-<img width="95" alt="Moodsy" src="https://github.com/khushbooc8/Moodsy/assets/92592464/83573532-aa30-4fc6-adde-831b95c13d13">
+
+<img width="95" alt="Moodsy" src="https://github.com/khushbooc8/Moodsy-Demo/assets/92592464/11dd092c-5af1-4f19-b646-63af3ce2b5e9">
 
 # Demo Video: 
 
-https://github.com/khushbooc8/Moodsy/assets/92592464/8a3c9a84-5828-4543-9cba-56bf67d73337
+https://github.com/khushbooc8/Moodsy-Demo/assets/92592464/3ded5e3c-fee0-42f4-955b-8a46271095ed
+
 - Music from Uppbeat: https://uppbeat.io/t/zoo/the-road-ahead, License code: 6CEFFJXNWQZ10QWV
 
 
